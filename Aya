@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="30">
+    <title>Aya task</title>
+</head>
+
+<body>
+    <div class="m-4">
+        <h1>John Doe's Portfolio</h1>
+    </div>
+
+    <div class="m-4">
+        <nav>
+            <a href="portfolio.html">Portfolio</a> |
+            <a href="blog.html">Blog</a></li> |
+            <a href="ecommerce.html">E-commerce</a> |
+            <a href="resume.html">Resume</a></li> |
+            <a href="contact.html">Contact</a>
+        </nav>
+
+
+    </div>
+
+    <div class="m-4">
+        <h2>
+            About Me
+        </h2>
+    </div>
+
+    <div class="m-4">
+        <img src="C:\Users\ayaht\Downloads\d2984ec4b65a8568eab3dc2b640fc58e.jpg" width="300" height="300">
+    </div>
+
+    <p> &nbsp Hello! I'm John Doe, a web developer with a passion for creating beautiful and functional websites.</p>
+    <div class="m-4">
+        <h2> My Work</h2>
+
+        <ul>
+            <li><strong>Project A:</strong> A responsive landing page for a startup.</li>
+            <li><strong>Project B:</strong> An e-commerce website with a custom shopping cart.</li>
+            <li><strong>Project C:</strong> A blog platform with a focus on user experience.</li>
+        </ul>
+    </div>
+</body>
+
+</html>
